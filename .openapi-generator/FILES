@@ -1,0 +1,8 @@
+src/main/java/com/ximple/bookmanager/application/controller/generated/ApiUtil.java
+src/main/java/com/ximple/bookmanager/application/controller/generated/BooksApi.java
+src/main/java/com/ximple/bookmanager/application/controller/generated/BooksApiDelegate.java
+src/main/java/com/ximple/bookmanager/application/controller/generated/UsersApi.java
+src/main/java/com/ximple/bookmanager/application/controller/generated/UsersApiDelegate.java
+src/main/java/com/ximple/bookmanager/application/dto/generated/Book.java
+src/main/java/com/ximple/bookmanager/application/dto/generated/Error.java
+src/main/java/com/ximple/bookmanager/application/dto/generated/UserAuth.java
